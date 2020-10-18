@@ -1,0 +1,19 @@
+using System;
+namespace harshil 
+{
+class harshil
+{
+static void Main(string[]args)    
+{
+     Console.WriteLine("THIS IS A SLOGAN  IDEA COMPILER");
+    Console.WriteLine("THIS COMPILER CAN ONLY GIVE TWO SLOGANS ");
+    Console.WriteLine("enter YOUR NAME");
+    string username=Console.ReadLine();
+    Console.WriteLine("YOUR NAME IS"+ username);
+    Console.WriteLine("YOUR SLOGAN CAN BE "+ username);
+    Console.WriteLine("EAST OR WEST "+ username+"  IS THE BEST");
+    Console.WriteLine("AMAZING  AMAZING "+ username+"YOUR AMAZING");
+}
+
+}
+}
